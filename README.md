@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Arshan</h1>
+<h1 align="center">Hi there 👋, I'm Arshan Pabarja</h1>
 <h3 align="center">💻 A 15-year-old passionate full-stack web developer</h3>
 
 ---
