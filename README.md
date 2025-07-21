@@ -38,4 +38,4 @@
 ### 🔗 Connect with Me
 
 - 📫 Email: arshanpabarja88@gmail.com
-- 🌐 Portfolio: [Coming Soon!]
+- 🌐 Portfolio: https://arshanpabarja.github.io/My-Shop/
